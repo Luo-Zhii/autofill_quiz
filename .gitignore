@@ -1,0 +1,42 @@
+# ==========================================
+# Môi trường ảo (Virtual Environment)
+# ==========================================
+venv/
+env/
+.venv/
+
+# ==========================================
+# File cache của Python (Không bao giờ commit)
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# ==========================================
+# Môi trường cấu hình IDE / Editor (Của ai nấy dùng)
+# ==========================================
+.vscode/
+.idea/
+.cursor/
+*.swp
+*.swo
+
+# ==========================================
+# Thông tin nhạy cảm và Log
+# ==========================================
+.env
+*.log
+playwright-report/
+test-results/
+
+# ==========================================
+# Dữ liệu Data thô (Chỉ giữ lại file code)
+# ==========================================
+# Bỏ comment 2 dòng dưới nếu bạn KHÔNG muốn đẩy thư mục data lên Git
+# data/tests/*.json
+# data/raw_pdfs/
+
+# Bỏ qua hệ thống file rác của hệ điều hành
+.DS_Store
+Thumbs.db

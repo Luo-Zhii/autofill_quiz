@@ -1,0 +1,504 @@
+{
+    "TEST_07": [
+        {
+            "id": "q_101",
+            "question_text": "Mr. Guo --- with an electrician yesterday about the rewiring project.",
+            "correct_answer_text": "consulted"
+        },
+        {
+            "id": "q_102",
+            "question_text": "Ms. Lan Le will complete --- internship at the George Cake Shop next week.",
+            "correct_answer_text": "her"
+        },
+        {
+            "id": "q_103",
+            "question_text": "Every Thursday the Lifelong Reading Club meets to --- novels written by local authors.",
+            "correct_answer_text": "discuss"
+        },
+        {
+            "id": "q_104",
+            "question_text": "Skymills Insurance --- grew from a small business to a midsize company with 350 employees.",
+            "correct_answer_text": "quickly"
+        },
+        {
+            "id": "q_105",
+            "question_text": "Local shop owners are invited to the --- of Clyde Bank's downtown branch.",
+            "correct_answer_text": "opening"
+        },
+        {
+            "id": "q_106",
+            "question_text": "All e-mail messages regarding legal issues should be --- in a separate folder.",
+            "correct_answer_text": "stored"
+        },
+        {
+            "id": "q_107",
+            "question_text": "Hiring an --- for Ms. Tsai must be our top priority, as her workload has increased.",
+            "correct_answer_text": "assistant"
+        },
+        {
+            "id": "q_108",
+            "question_text": "The --- Ladoff Building was constructed in 1923 and stood two stories tall.",
+            "correct_answer_text": "original"
+        },
+        {
+            "id": "q_109",
+            "question_text": "If you have questions about your most --- credit card statement, call Mr. Hassan.",
+            "correct_answer_text": "recent"
+        },
+        {
+            "id": "q_110",
+            "question_text": "The Rinzlite dishwasher was ranked higher --- all other dishwashers in its class.",
+            "correct_answer_text": "than"
+        },
+        {
+            "id": "q_111",
+            "question_text": "So far, the Grantley store --- 20 percent more mobile phones than it did last year.",
+            "correct_answer_text": "has sold"
+        },
+        {
+            "id": "q_112",
+            "question_text": "In the event of a power failure, unplug computers until power is --- restored.",
+            "correct_answer_text": "fully"
+        },
+        {
+            "id": "q_113",
+            "question_text": "Although Mr. Akiyama retired last year, he --- visits the office each week.",
+            "correct_answer_text": "still"
+        },
+        {
+            "id": "q_114",
+            "question_text": "At the panel discussion, Ms. Yang made a --- argument for environmentally responsible business practices.",
+            "correct_answer_text": "convincing"
+        },
+        {
+            "id": "q_115",
+            "question_text": "The Hokodo Orchestra will hold --- for new string musicians next Tuesday.",
+            "correct_answer_text": "auditions"
+        },
+        {
+            "id": "q_116",
+            "question_text": "Although the team members --- were not available after the game, the coach was happy to be interviewed.",
+            "correct_answer_text": "themselves"
+        },
+        {
+            "id": "q_117",
+            "question_text": "Ms. Schwimmer's application was not --- reviewed until November 5.",
+            "correct_answer_text": "completely"
+        },
+        {
+            "id": "q_118",
+            "question_text": "Managers are encouraged to give their staff --- feedback during the annual performance-review meetings.",
+            "correct_answer_text": "constructive"
+        },
+        {
+            "id": "q_119",
+            "question_text": "Deckermark Enterprises offers employees flexible scheduling and telecommuting ---.",
+            "correct_answer_text": "options"
+        },
+        {
+            "id": "q_120",
+            "question_text": "Ms. Summer can estimate the cost for the land-clearing project in Fosterville, --- before the details are finalized.",
+            "correct_answer_text": "even"
+        },
+        {
+            "id": "q_121",
+            "question_text": "The company's transition from paper paychecks to electronic paychecks was --- smooth.",
+            "correct_answer_text": "impressively"
+        },
+        {
+            "id": "q_122",
+            "question_text": "All temporary workers should contact Ms. Fierro to --- an identification badge.",
+            "correct_answer_text": "obtain"
+        },
+        {
+            "id": "q_123",
+            "question_text": "We will pay your insurance claim --- we receive the official damage report.",
+            "correct_answer_text": "once"
+        },
+        {
+            "id": "q_124",
+            "question_text": "Neither of the --- in the debate was willing to take a stand on the riverfront development controversy.",
+            "correct_answer_text": "politicians"
+        },
+        {
+            "id": "q_125",
+            "question_text": "--- the additional funding, Central City Medical School expects to double the size of its research team.",
+            "correct_answer_text": "With"
+        },
+        {
+            "id": "q_126",
+            "question_text": "The clients have indicated that a reception area of 60 square meters will be --- in the new building.",
+            "correct_answer_text": "sufficient"
+        },
+        {
+            "id": "q_127",
+            "question_text": "Ms. Lau would like to know --- Mr. Cole called the main office yesterday.",
+            "correct_answer_text": "why"
+        },
+        {
+            "id": "q_128",
+            "question_text": "Koffler Law hired more paralegals --- meet its commitment to clients.",
+            "correct_answer_text": "in order to"
+        },
+        {
+            "id": "q_129",
+            "question_text": "The newest edition of the Biltmire Road Atlas has plastic-coated pages for extra --- .",
+            "correct_answer_text": "durability"
+        },
+        {
+            "id": "q_130",
+            "question_text": "Job seekers should prepare a list of professional references --- applying for positions.",
+            "correct_answer_text": "prior to"
+        },
+        {
+            "id": "q_131",
+            "question_text": "[Blank in passage - text missing in source]",
+            "correct_answer_text": "as well as"
+        },
+        {
+            "id": "q_132",
+            "question_text": "[Blank in passage - text missing in source]",
+            "correct_answer_text": "speculating"
+        },
+        {
+            "id": "q_133",
+            "question_text": "[Blank in passage - text missing in source]",
+            "correct_answer_text": "remarkable"
+        },
+        {
+            "id": "q_134",
+            "question_text": "[Blank in passage - text missing in source]",
+            "correct_answer_text": "Its worldwide sales were double that number."
+        },
+        {
+            "id": "q_135",
+            "question_text": "[Blank in passage - text missing in source]",
+            "correct_answer_text": "The job seems like an ideal match for my skills and interests."
+        },
+        {
+            "id": "q_136",
+            "question_text": "[Blank in passage - text missing in source]",
+            "correct_answer_text": "position"
+        },
+        {
+            "id": "q_137",
+            "question_text": "[Blank in passage - text missing in source]",
+            "correct_answer_text": "were all required"
+        },
+        {
+            "id": "q_138",
+            "question_text": "[Blank in passage - text missing in source]",
+            "correct_answer_text": "interview"
+        },
+        {
+            "id": "q_139",
+            "question_text": "[Blank in passage - text missing in source]",
+            "correct_answer_text": "monitoring"
+        },
+        {
+            "id": "q_140",
+            "question_text": "[Blank in passage - text missing in source]",
+            "correct_answer_text": "For this reason"
+        },
+        {
+            "id": "q_141",
+            "question_text": "[Blank in passage - text missing in source]",
+            "correct_answer_text": "bright"
+        },
+        {
+            "id": "q_142",
+            "question_text": "[Blank in passage - text missing in source]",
+            "correct_answer_text": "Also, flash photography is not permitted."
+        },
+        {
+            "id": "q_143",
+            "question_text": "[Blank in passage - text missing in source]",
+            "correct_answer_text": "annual"
+        },
+        {
+            "id": "q_144",
+            "question_text": "[Blank in passage - text missing in source]",
+            "correct_answer_text": "to spend"
+        },
+        {
+            "id": "q_145",
+            "question_text": "[Blank in passage - text missing in source]",
+            "correct_answer_text": "venue"
+        },
+        {
+            "id": "q_146",
+            "question_text": "[Blank in passage - text missing in source]",
+            "correct_answer_text": "Please reply with any suggestions."
+        },
+        {
+            "id": "q_147",
+            "question_text": "Where would the notice likely appear?",
+            "correct_answer_text": "On a sales receipt"
+        },
+        {
+            "id": "q_148",
+            "question_text": "What is suggested about Things Galore?",
+            "correct_answer_text": "It will not issue a refund for all items."
+        },
+        {
+            "id": "q_149",
+            "question_text": "For whom do the writers most likely work?",
+            "correct_answer_text": "A software development company"
+        },
+        {
+            "id": "q_150",
+            "question_text": "At 9:50 A.M., what does Ms. Viteli most likely mean when she writes, \"Not at all\"?",
+            "correct_answer_text": "She is willing to help a coworker."
+        },
+        {
+            "id": "q_151",
+            "question_text": "Why was the e-mail sent?",
+            "correct_answer_text": "To mention a special offer"
+        },
+        {
+            "id": "q_152",
+            "question_text": "What is indicated about the store on Lakeview Avenue?",
+            "correct_answer_text": "It was recently enlarged."
+        },
+        {
+            "id": "q_153",
+            "question_text": "Why are the holes being drilled?",
+            "correct_answer_text": "To facilitate planning of a building project"
+        },
+        {
+            "id": "q_154",
+            "question_text": "What does Mr. Mata ask staff to do tomorrow?",
+            "correct_answer_text": "Close all windows"
+        },
+        {
+            "id": "q_155",
+            "question_text": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"However, there is little that can be done regarding noise levels.\"",
+            "correct_answer_text": "[3]"
+        },
+        {
+            "id": "q_156",
+            "question_text": "What does the press release announce?",
+            "correct_answer_text": "The start of a lengthy business partnership"
+        },
+        {
+            "id": "q_157",
+            "question_text": "The word \"spaces\" in paragraph 1, line 4, is closest in meaning to",
+            "correct_answer_text": "areas"
+        },
+        {
+            "id": "q_158",
+            "question_text": "Where does the press release indicate a project was completed?",
+            "correct_answer_text": "In Naples"
+        },
+        {
+            "id": "q_159",
+            "question_text": "What is suggested about Heylin Park?",
+            "correct_answer_text": "It is an undeveloped area."
+        },
+        {
+            "id": "q_160",
+            "question_text": "What is prohibited at Heylin Park?",
+            "correct_answer_text": "Collecting natural objects"
+        },
+        {
+            "id": "q_161",
+            "question_text": "What can visitors do at the check-in kiosk?",
+            "correct_answer_text": "Register for a tour"
+        },
+        {
+            "id": "q_162",
+            "question_text": "What is the purpose of the article?",
+            "correct_answer_text": "To publicize online courses"
+        },
+        {
+            "id": "q_163",
+            "question_text": "What does Ms. Gonzales encourage people to do?",
+            "correct_answer_text": "Watch a video"
+        },
+        {
+            "id": "q_164",
+            "question_text": "In what industry do the participants most likely work?",
+            "correct_answer_text": "Finance"
+        },
+        {
+            "id": "q_165",
+            "question_text": "What is suggested about Ms. Jones?",
+            "correct_answer_text": "She supervises Ms. Canto's work."
+        },
+        {
+            "id": "q_166",
+            "question_text": "What is indicated about Ms. Canto's biogs?",
+            "correct_answer_text": "They will be published once a month."
+        },
+        {
+            "id": "q_167",
+            "question_text": "At 1:28 P.M., what does Ms. Jones mean when she writes, \"Sounds interesting\"?",
+            "correct_answer_text": "She likes the subject matter of Mr. Pereira's blog."
+        },
+        {
+            "id": "q_168",
+            "question_text": "What is indicated about the Corbissin Corporation?",
+            "correct_answer_text": "It manufactures and sells office technology."
+        },
+        {
+            "id": "q_169",
+            "question_text": "What is suggested about Mr. Serapio?",
+            "correct_answer_text": "He was away on business on October 18."
+        },
+        {
+            "id": "q_170",
+            "question_text": "Who will gather more information on a topic?",
+            "correct_answer_text": "Ms. Buenaflor"
+        },
+        {
+            "id": "q_171",
+            "question_text": "What will happen in November?",
+            "correct_answer_text": "New products will be released."
+        },
+        {
+            "id": "q_172",
+            "question_text": "Why did Ms. Mathur send the letter?",
+            "correct_answer_text": "To recommend a colleague for a position"
+        },
+        {
+            "id": "q_173",
+            "question_text": "What is mentioned about Harding Environmental Group?",
+            "correct_answer_text": "It conducts research studies."
+        },
+        {
+            "id": "q_174",
+            "question_text": "What is suggested about Norden City's water system?",
+            "correct_answer_text": "Its maintenance costs have decreased."
+        },
+        {
+            "id": "q_175",
+            "question_text": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"Your organization would benefit from these connections.\"",
+            "correct_answer_text": "[4]"
+        },
+        {
+            "id": "q_176",
+            "question_text": "Why did Mr. Katz contact Ms. Cho?",
+            "correct_answer_text": "To provide an update"
+        },
+        {
+            "id": "q_177",
+            "question_text": "In the e-mail, the word \"meet\" in paragraph 2, line 1, is closest in meaning to",
+            "correct_answer_text": "fulfill"
+        },
+        {
+            "id": "q_178",
+            "question_text": "Who is Ms. Cho?",
+            "correct_answer_text": "The museum director"
+        },
+        {
+            "id": "q_179",
+            "question_text": "What is Ms. Sanz eager to do?",
+            "correct_answer_text": "Attend an exhibition"
+        },
+        {
+            "id": "q_180",
+            "question_text": "What does Ms. Sanz suggest in her comment?",
+            "correct_answer_text": "She made a donation before the end of the fiscal year."
+        },
+        {
+            "id": "q_181",
+            "question_text": "Babin and Associates is most likely what type of business?",
+            "correct_answer_text": "A clothing company"
+        },
+        {
+            "id": "q_182",
+            "question_text": "What is indicated about Mr. Zhong?",
+            "correct_answer_text": "He has ordered from Babin and Associates before."
+        },
+        {
+            "id": "q_183",
+            "question_text": "What does Mr. Zhong request?",
+            "correct_answer_text": "A return phone call"
+        },
+        {
+            "id": "q_184",
+            "question_text": "According to the invoice, what is true about the long-sleeved shirts?",
+            "correct_answer_text": "Some of them will be shipped at a later date."
+        },
+        {
+            "id": "q_185",
+            "question_text": "What is one problem that Mr. Zhong identifies?",
+            "correct_answer_text": "The wrong amount was charged for aprons."
+        },
+        {
+            "id": "q_186",
+            "question_text": "Who most likely is Evrim Turgut?",
+            "correct_answer_text": "A medical doctor"
+        },
+        {
+            "id": "q_187",
+            "question_text": "What does the ticket indicate about Dr. Williams' trip?",
+            "correct_answer_text": "She will be able to choose where to sit."
+        },
+        {
+            "id": "q_188",
+            "question_text": "Based on his availability, what train will Dr. Penfold most likely take?",
+            "correct_answer_text": "RN823"
+        },
+        {
+            "id": "q_189",
+            "question_text": "What is suggested about Dr. Williams?",
+            "correct_answer_text": "She bought her ticket at a reduced price."
+        },
+        {
+            "id": "q_190",
+            "question_text": "According to the schedule, what is true about the train trips?",
+            "correct_answer_text": "They will end at the same destination."
+        },
+        {
+            "id": "q_191",
+            "question_text": "According to the article, where will artists display their work?",
+            "correct_answer_text": "At area businesses"
+        },
+        {
+            "id": "q_192",
+            "question_text": "What is the purpose of the e-mail?",
+            "correct_answer_text": "To request approval of a design"
+        },
+        {
+            "id": "q_193",
+            "question_text": "What is indicated about the supplies Ms. Goto purchased?",
+            "correct_answer_text": "Their cost will be reimbursed in full."
+        },
+        {
+            "id": "q_194",
+            "question_text": "What needs to be included with the form?",
+            "correct_answer_text": "The sales receipt"
+        },
+        {
+            "id": "q_195",
+            "question_text": "What is most likely true about Jam Cafe?",
+            "correct_answer_text": "It has a green interior."
+        },
+        {
+            "id": "q_196",
+            "question_text": "According to the Web page, what did Ms. Garza receive before joining a professional team?",
+            "correct_answer_text": "A university degree"
+        },
+        {
+            "id": "q_197",
+            "question_text": "Why does Ms. Wyatt consider Ms. Garza a suitable celebrity endorser?",
+            "correct_answer_text": "Her charity distributes eyeglasses."
+        },
+        {
+            "id": "q_198",
+            "question_text": "What does the e-mail suggest about Mr. Roy?",
+            "correct_answer_text": "He works with Ms. Wyatt and Mr. Delon."
+        },
+        {
+            "id": "q_199",
+            "question_text": "What is indicated about Ms. Garza?",
+            "correct_answer_text": "She joined the Bonvue publicity campaign ahead of schedule."
+        },
+        {
+            "id": "q_200",
+            "question_text": "What information about Bonvue is included in the article?",
+            "correct_answer_text": "The location of its head office"
+        }
+    ]
+}
