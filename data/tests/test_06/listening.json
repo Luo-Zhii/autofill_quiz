@@ -1,0 +1,504 @@
+{
+    "TEST_06": [
+        {
+            "id": "q_1",
+            "question_text": "[Audio - Question text not printed]",
+            "correct_answer_text": "(C)"
+        },
+        {
+            "id": "q_2",
+            "question_text": "[Audio - Question text not printed]",
+            "correct_answer_text": "(D)"
+        },
+        {
+            "id": "q_3",
+            "question_text": "[Audio - Question text not printed]",
+            "correct_answer_text": "(C)"
+        },
+        {
+            "id": "q_4",
+            "question_text": "[Audio - Question text not printed]",
+            "correct_answer_text": "(A)"
+        },
+        {
+            "id": "q_5",
+            "question_text": "[Audio - Question text not printed]",
+            "correct_answer_text": "(C)"
+        },
+        {
+            "id": "q_6",
+            "question_text": "[Audio - Question text not printed]",
+            "correct_answer_text": "(D)"
+        },
+        {
+            "id": "q_7",
+            "question_text": "[Audio - Question text not printed]",
+            "correct_answer_text": "(B)"
+        },
+        {
+            "id": "q_8",
+            "question_text": "[Audio - Question text not printed]",
+            "correct_answer_text": "(C)"
+        },
+        {
+            "id": "q_9",
+            "question_text": "[Audio - Question text not printed]",
+            "correct_answer_text": "(B)"
+        },
+        {
+            "id": "q_10",
+            "question_text": "[Audio - Question text not printed]",
+            "correct_answer_text": "(A)"
+        },
+        {
+            "id": "q_11",
+            "question_text": "[Audio - Question text not printed]",
+            "correct_answer_text": "(C)"
+        },
+        {
+            "id": "q_12",
+            "question_text": "[Audio - Question text not printed]",
+            "correct_answer_text": "(B)"
+        },
+        {
+            "id": "q_13",
+            "question_text": "[Audio - Question text not printed]",
+            "correct_answer_text": "(B)"
+        },
+        {
+            "id": "q_14",
+            "question_text": "[Audio - Question text not printed]",
+            "correct_answer_text": "(A)"
+        },
+        {
+            "id": "q_15",
+            "question_text": "[Audio - Question text not printed]",
+            "correct_answer_text": "(C)"
+        },
+        {
+            "id": "q_16",
+            "question_text": "[Audio - Question text not printed]",
+            "correct_answer_text": "(C)"
+        },
+        {
+            "id": "q_17",
+            "question_text": "[Audio - Question text not printed]",
+            "correct_answer_text": "(A)"
+        },
+        {
+            "id": "q_18",
+            "question_text": "[Audio - Question text not printed]",
+            "correct_answer_text": "(C)"
+        },
+        {
+            "id": "q_19",
+            "question_text": "[Audio - Question text not printed]",
+            "correct_answer_text": "(C)"
+        },
+        {
+            "id": "q_20",
+            "question_text": "[Audio - Question text not printed]",
+            "correct_answer_text": "(B)"
+        },
+        {
+            "id": "q_21",
+            "question_text": "[Audio - Question text not printed]",
+            "correct_answer_text": "(B)"
+        },
+        {
+            "id": "q_22",
+            "question_text": "[Audio - Question text not printed]",
+            "correct_answer_text": "(B)"
+        },
+        {
+            "id": "q_23",
+            "question_text": "[Audio - Question text not printed]",
+            "correct_answer_text": "(A)"
+        },
+        {
+            "id": "q_24",
+            "question_text": "[Audio - Question text not printed]",
+            "correct_answer_text": "(A)"
+        },
+        {
+            "id": "q_25",
+            "question_text": "[Audio - Question text not printed]",
+            "correct_answer_text": "(A)"
+        },
+        {
+            "id": "q_26",
+            "question_text": "[Audio - Question text not printed]",
+            "correct_answer_text": "(C)"
+        },
+        {
+            "id": "q_27",
+            "question_text": "[Audio - Question text not printed]",
+            "correct_answer_text": "(B)"
+        },
+        {
+            "id": "q_28",
+            "question_text": "[Audio - Question text not printed]",
+            "correct_answer_text": "(C)"
+        },
+        {
+            "id": "q_29",
+            "question_text": "[Audio - Question text not printed]",
+            "correct_answer_text": "(A)"
+        },
+        {
+            "id": "q_30",
+            "question_text": "[Audio - Question text not printed]",
+            "correct_answer_text": "(B)"
+        },
+        {
+            "id": "q_31",
+            "question_text": "[Audio - Question text not printed]",
+            "correct_answer_text": "(C)"
+        },
+        {
+            "id": "q_32",
+            "question_text": "What is the woman trying to do?",
+            "correct_answer_text": "Pick up a vehicle"
+        },
+        {
+            "id": "q_33",
+            "question_text": "What did the woman forget to bring?",
+            "correct_answer_text": "A confirmation number"
+        },
+        {
+            "id": "q_34",
+            "question_text": "What does the man say he will do?",
+            "correct_answer_text": "Search a database"
+        },
+        {
+            "id": "q_35",
+            "question_text": "Why did the man go to Amy's office?",
+            "correct_answer_text": "To drop off some paperwork"
+        },
+        {
+            "id": "q_36",
+            "question_text": "Why is Amy unavailable?",
+            "correct_answer_text": "She is speaking with a client."
+        },
+        {
+            "id": "q_37",
+            "question_text": "What will the man most likely do next?",
+            "correct_answer_text": "Conduct a training session"
+        },
+        {
+            "id": "q_38",
+            "question_text": "Why is the woman calling?",
+            "correct_answer_text": "To renew a subscription"
+        },
+        {
+            "id": "q_39",
+            "question_text": "Why does the man apologize?",
+            "correct_answer_text": "A discount does not apply."
+        },
+        {
+            "id": "q_40",
+            "question_text": "What does the man say he will do?",
+            "correct_answer_text": "Send a document"
+        },
+        {
+            "id": "q_41",
+            "question_text": "Where do the speakers most likely work?",
+            "correct_answer_text": "At a manufacturing company"
+        },
+        {
+            "id": "q_42",
+            "question_text": "According to the men, what is causing a problem?",
+            "correct_answer_text": "A machine is operating slowly."
+        },
+        {
+            "id": "q_43",
+            "question_text": "What does the woman suggest?",
+            "correct_answer_text": "Scheduling a repair"
+        },
+        {
+            "id": "q_44",
+            "question_text": "What are the speakers discussing?",
+            "correct_answer_text": "Survey results"
+        },
+        {
+            "id": "q_45",
+            "question_text": "According to the man, what is the main problem?",
+            "correct_answer_text": "There is too much noise in the office."
+        },
+        {
+            "id": "q_46",
+            "question_text": "What does the woman suggest doing?",
+            "correct_answer_text": "Reminding people about a company policy"
+        },
+        {
+            "id": "q_47",
+            "question_text": "What is the woman calling about?",
+            "correct_answer_text": "Filling an order"
+        },
+        {
+            "id": "q_48",
+            "question_text": "What does the man imply when he says, \"the request came directly from the client\"?",
+            "correct_answer_text": "A change is not possible."
+        },
+        {
+            "id": "q_49",
+            "question_text": "What does the woman say she will do?",
+            "correct_answer_text": "Contact some businesses"
+        },
+        {
+            "id": "q_50",
+            "question_text": "What did the woman win a prize for?",
+            "correct_answer_text": "Having the highest sales numbers"
+        },
+        {
+            "id": "q_51",
+            "question_text": "What will the woman do this weekend?",
+            "correct_answer_text": "Go on a vacation"
+        },
+        {
+            "id": "q_52",
+            "question_text": "What does the woman say she will do with the prize?",
+            "correct_answer_text": "Offer it to someone else"
+        },
+        {
+            "id": "q_53",
+            "question_text": "Where does the conversation most likely take place?",
+            "correct_answer_text": "In a hotel"
+        },
+        {
+            "id": "q_54",
+            "question_text": "Why does the man say, \"This is my first visit here\"?",
+            "correct_answer_text": "To request a recommendation"
+        },
+        {
+            "id": "q_55",
+            "question_text": "Why does the woman recommend making a purchase on the Internet?",
+            "correct_answer_text": "The price is reduced."
+        },
+        {
+            "id": "q_56",
+            "question_text": "Which industry do the speakers most likely work in?",
+            "correct_answer_text": "Web design"
+        },
+        {
+            "id": "q_57",
+            "question_text": "What does the man recommend?",
+            "correct_answer_text": "Hiring an accountant"
+        },
+        {
+            "id": "q_58",
+            "question_text": "What does the woman say she will do?",
+            "correct_answer_text": "Make an appointment"
+        },
+        {
+            "id": "q_59",
+            "question_text": "Why is the woman at Regal Advertising?",
+            "correct_answer_text": "For a job interview"
+        },
+        {
+            "id": "q_60",
+            "question_text": "What does the woman say is her specialty?",
+            "correct_answer_text": "Creating designs for billboards"
+        },
+        {
+            "id": "q_61",
+            "question_text": "What does the woman say she appreciates about Regal?",
+            "correct_answer_text": "The company values its employees."
+        },
+        {
+            "id": "q_62",
+            "question_text": "What problem does the woman report?",
+            "correct_answer_text": "She is running late."
+        },
+        {
+            "id": "q_63",
+            "question_text": "Look at the graphic. Where are the speakers going?",
+            "correct_answer_text": "To Los Angeles"
+        },
+        {
+            "id": "q_64",
+            "question_text": "What does the woman ask the man to do?",
+            "correct_answer_text": "Make a phone call"
+        },
+        {
+            "id": "q_65",
+            "question_text": "What problem does the woman mention?",
+            "correct_answer_text": "More storage space is needed."
+        },
+        {
+            "id": "q_66",
+            "question_text": "Look at the graphic. Which shelf will the man work on today?",
+            "correct_answer_text": "Shelf 3"
+        },
+        {
+            "id": "q_67",
+            "question_text": "What does the woman tell the man to do?",
+            "correct_answer_text": "Move a display table"
+        },
+        {
+            "id": "q_68",
+            "question_text": "What kind of business does the man want to start?",
+            "correct_answer_text": "A restaurant"
+        },
+        {
+            "id": "q_69",
+            "question_text": "What does the man say he learned from his previous business?",
+            "correct_answer_text": "How to identify potential customers"
+        },
+        {
+            "id": "q_70",
+            "question_text": "Look at the graphic. Which part of the business plan does the woman suggest revising?",
+            "correct_answer_text": "Part 5"
+        },
+        {
+            "id": "q_71",
+            "question_text": "What industry does the speaker most likely work in?",
+            "correct_answer_text": "Advertising"
+        },
+        {
+            "id": "q_72",
+            "question_text": "What is the speaker mainly talking about?",
+            "correct_answer_text": "A project delay"
+        },
+        {
+            "id": "q_73",
+            "question_text": "What are the listeners asked to do?",
+            "correct_answer_text": "Review a schedule"
+        },
+        {
+            "id": "q_74",
+            "question_text": "What is the main purpose of the message?",
+            "correct_answer_text": "To complain about parking"
+        },
+        {
+            "id": "q_75",
+            "question_text": "What does the speaker say he did yesterday?",
+            "correct_answer_text": "He talked to his neighbors."
+        },
+        {
+            "id": "q_76",
+            "question_text": "What does the speaker plan to do tomorrow?",
+            "correct_answer_text": "Stop by an office"
+        },
+        {
+            "id": "q_77",
+            "question_text": "Where do the listeners probably work?",
+            "correct_answer_text": "At a shipping warehouse"
+        },
+        {
+            "id": "q_78",
+            "question_text": "What does the speaker imply when she says, \"Now, there's a box in the staff room\"?",
+            "correct_answer_text": "A problem has been solved."
+        },
+        {
+            "id": "q_79",
+            "question_text": "What will the speaker do on Fridays?",
+            "correct_answer_text": "Summarize feedback"
+        },
+        {
+            "id": "q_80",
+            "question_text": "What type of business recorded the message?",
+            "correct_answer_text": "A law firm"
+        },
+        {
+            "id": "q_81",
+            "question_text": "What does the speaker say about the office?",
+            "correct_answer_text": "It is being renovated."
+        },
+        {
+            "id": "q_82",
+            "question_text": "What are the listeners instructed to do?",
+            "correct_answer_text": "Send an e-mail"
+        },
+        {
+            "id": "q_83",
+            "question_text": "What is the broadcast mainly about?",
+            "correct_answer_text": "The relocation of a business"
+        },
+        {
+            "id": "q_84",
+            "question_text": "According to the speaker, who is Sharon Rockford?",
+            "correct_answer_text": "A company president"
+        },
+        {
+            "id": "q_85",
+            "question_text": "What is Broadchurch Fashions planning to do next spring?",
+            "correct_answer_text": "Introduce a woman's clothing line"
+        },
+        {
+            "id": "q_86",
+            "question_text": "What kind of equipment has just been installed?",
+            "correct_answer_text": "Printers"
+        },
+        {
+            "id": "q_87",
+            "question_text": "What product feature does the speaker emphasize?",
+            "correct_answer_text": "It is secure."
+        },
+        {
+            "id": "q_88",
+            "question_text": "Why does the speaker say, \"but they're generally very busy\"?",
+            "correct_answer_text": "To encourage the listeners to be patient"
+        },
+        {
+            "id": "q_89",
+            "question_text": "Where does the speaker most likely work?",
+            "correct_answer_text": "At an automobile dealership"
+        },
+        {
+            "id": "q_90",
+            "question_text": "What did the survey gather information about?",
+            "correct_answer_text": "Customer satisfaction"
+        },
+        {
+            "id": "q_91",
+            "question_text": "What incentive did the company provide for returning the survey?",
+            "correct_answer_text": "A free car wash"
+        },
+        {
+            "id": "q_92",
+            "question_text": "Who most likely are the listeners?",
+            "correct_answer_text": "Sales representatives"
+        },
+        {
+            "id": "q_93",
+            "question_text": "What does the speaker imply when she says, \"most people have a limited understanding of the topic\"?",
+            "correct_answer_text": "A topic should be explained clearly."
+        },
+        {
+            "id": "q_94",
+            "question_text": "According to the woman, what is the listeners' goal?",
+            "correct_answer_text": "To meet a quota"
+        },
+        {
+            "id": "q_95",
+            "question_text": "Who most likely is the speaker?",
+            "correct_answer_text": "An event organizer"
+        },
+        {
+            "id": "q_96",
+            "question_text": "What does the speaker say about mobile phones?",
+            "correct_answer_text": "They will be centrally located."
+        },
+        {
+            "id": "q_97",
+            "question_text": "Look at the graphic. Which area was added?",
+            "correct_answer_text": "Area 1"
+        },
+        {
+            "id": "q_98",
+            "question_text": "Where does the speaker most likely work?",
+            "correct_answer_text": "At a museum"
+        },
+        {
+            "id": "q_99",
+            "question_text": "What does the speaker thank the listeners for?",
+            "correct_answer_text": "Agreeing to help with a project"
+        },
+        {
+            "id": "q_100",
+            "question_text": "Look at the graphic. Which amount has changed this year?",
+            "correct_answer_text": "$80"
+        }
+    ]
+}
